@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV103_Coil_Driver")(type "KiCad")(uri "${KIPRJMOD}/Component Files/DRV103_Coil_Driver.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7B8250QDGNRQ1")(type "KiCad")(uri "${KIPRJMOD}/Component Files/TPS7B8250QDGNRQ1/TPS7B8250QDGNRQ1.kicad_sym")(options "")(descr ""))
+)
