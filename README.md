@@ -9,7 +9,7 @@ The frequency, duty cycle, and delay info is printed on the bottom of the pc boa
 Frequency is set to 25kHz by default.  Its recommended to keep it at 25kHz but can be adjusted from 25kHz down to 20kHz by cutting the 20/25kHz jumpers if required. The 20kHZ mod jumper (follow the silkscreen line to it) must also be soldered to adjust the voltage devider stack to work with the different pwm frequency load requirements of 20kHz.
 
 PWM Duty cycle is set to 21.8% by default, 3 jumpers are shorted on each coil circuit.  This is using voltage to set the duty cycle in the DRV103, a simulation of the circuit is here, https://everycircuit.com/circuit/4973018295828480  These can be cut if necessary.  If more than 21.8% is required more solder jumpers can be soldered.  Which gets cut or soldered doesn't matter as long as its in the silkscreened group. 
-# of jumpers shorted: 0 = 14.3%, 1 = 17%, 2 = 19.75%, 3 = 21.8%, 4 = 23.9%, 5 = 26%, 6 = 28%.
+# of jumpers shorted: 0 = 14.3%, 1 = 17%, 2 = 19.75%, 3 = 21.8%, 4 = 23.9%, 5 = 26%, 6 = 28%.  Looking at the top, the left 3 are shorted with a trace across them.
 
 The DRV103 has an adjustable full on time then switches to pwm to hold the coil.  By default all 4 solder jumpers are shorted for a 550ms on time.  These jumpers can be cut to allow less full on time if required. Which gets cut or soldered doesn't matter as long as its in the silkscreened group.
 # of jumpers shorted: 0 = 110ms, 1 = 220ms, 2 = 330ms, 3 = 440ms, 4 = 550ms.
