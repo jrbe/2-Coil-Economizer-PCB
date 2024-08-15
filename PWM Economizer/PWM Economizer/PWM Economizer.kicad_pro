@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.8,
-          "height": 12.7,
-          "width": 3.95
+          "drill": 0.0,
+          "height": 2.8956,
+          "width": 2.6035
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -57,12 +57,13 @@
       ],
       "drc_exclusions": [
         "clearance|110480000|73176202|fc3f3de4-38ad-4d90-9959-26e458e37444|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
-        "clearance|111066350|76507950|db67796c-16d6-4e7a-b028-569f7f812167|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
-        "clearance|111090000|66303797|ec9edc46-0dfb-4914-8e13-fdf9204bd574|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
+        "clearance|110480000|76506202|db67796c-16d6-4e7a-b028-569f7f812167|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
+        "clearance|110500322|66302528|83965b78-1c53-4ff2-a13d-2522b29efcc3|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
+        "clearance|110968892|69815408|bef31da9-3c55-4b9c-be48-f2f8c49bc7ea|a577bd50-2ac5-4a6c-b34d-b98a237bcbab",
         "clearance|49427823|73122528|d776e267-d7bf-4193-9b32-2ac1651127c9|8f37d8de-4d3f-4402-8830-ff71c3c41f1a",
         "clearance|49517500|66503797|c1c54a33-9c4b-402b-a36a-9eb72baf85ff|8f37d8de-4d3f-4402-8830-ff71c3c41f1a",
         "clearance|49517500|69813797|3891a1e1-4b78-4512-8d2f-b150d16a3dbd|8f37d8de-4d3f-4402-8830-ff71c3c41f1a",
-        "clearance|49517500|76433797|f5963ccb-d317-45a0-8b0d-0596e7bee88e|8f37d8de-4d3f-4402-8830-ff71c3c41f1a"
+        "clearance|49517500|76432125|f5963ccb-d317-45a0-8b0d-0596e7bee88e|8f37d8de-4d3f-4402-8830-ff71c3c41f1a"
       ],
       "meta": {
         "version": 2
@@ -121,7 +122,7 @@
         "max_error": 0.005,
         "min_clearance": 0.16,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.35,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
@@ -194,6 +195,13 @@
         }
       ],
       "zones_allow_external_fillets": false
+    },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
     },
     "layer_presets": [],
     "viewports": []
@@ -453,8 +461,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

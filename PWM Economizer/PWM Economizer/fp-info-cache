@@ -1,4 +1,11 @@
-22382445624965182
+22391022816038625
+2 Coil Economizer Github Link
+2 Coil Economizer Github Link
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52892,6 +52899,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 DRV103
+DRV103 No Heatsink
+
+
+0
+8
+8
+DRV103
 DRV103 PowerPad SOIC
 
 
@@ -85133,6 +85147,27 @@ rotary encoder
 0
 7
 6
+SMD_Res_footprints
+SMD_Res
+
+SMW2100RJT 
+0
+2
+2
+SMD_Res_footprints
+SMD_Res 3W 12x5.8
+
+SMW2100RJT 
+0
+2
+2
+SMD_Res_footprints
+SMD_Res 3W 12x5.8 & 2512
+
+SMW2100RJT 
+0
+4
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://www.aosong.com/en/products-22.html
