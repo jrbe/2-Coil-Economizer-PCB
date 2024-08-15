@@ -27,7 +27,8 @@ There is an excel file with the calculated values of different DRV103 settings i
 
 
 The oval slots are oversized for both 5mm and 5.08mm connectors.  This includes Phoenix Contact 1017509, 1751228, 1776260-8, etc. TE 521384-8, Faston tabs, and direct solder.  If direct solder is chosen the "teeth" at the bottom can be used as a strain relief with shrink tubing over them. They are 8mm wide at the bottom.  Small or single wires may require a second layer of shrink tubing.
-![image](https://github.com/user-attachments/assets/2e5c2cb0-d14c-453b-a3f8-e653282975c9)
+![Uploading image.png…]()
+
 
 
 Testing of the contactors should be done without high voltage connected.  A voltage of 10v or less should be considered for testing to verify the contactors will not accidently open from a low 12v battery. Watching for continuity the coil can be energized and running in pwm mode and hit down on a padded table (simulating a hard bump) with the high voltage terminals up.  There should be no break in continuity and should not open.
