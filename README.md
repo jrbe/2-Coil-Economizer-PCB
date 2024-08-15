@@ -27,7 +27,8 @@ There is an excel file with the calculated values of different DRV103 settings i
 
 
 The oval slots are oversized for both 5mm and 5.08mm connectors.  This includes Phoenix Contact 1017509, 1751228, 1776260-8, etc. TE 521384-8, Faston tabs, and direct solder.  If direct solder is chosen the "teeth" at the bottom can be used as a strain relief with shrink tubing over them. They are 8mm wide at the bottom.  Small or single wires may require a second layer of shrink tubing.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/44bd7d23-846b-430f-82da-d224c1807276)
+
 
 
 
