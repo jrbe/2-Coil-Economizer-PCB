@@ -1,4 +1,4 @@
-**This version is not working.  The transistor is flipped on each channel and the DRV103's seem to be counterfeit.  Plan is to eventually swap both DRV103's to 556 timers and to a logic ic for input control to reduce cost and simplify the whole project.**
+**This V1.1 version is not working.  The transistor is flipped on each channel and the DRV103's I got seem to be counterfeit.  Plan is to eventually swap both DRV103's to 556 timers and to a logic ic for flexible input control to reduce cost, eliminate the DRV issues, and simplify the whole project.**
 
 
 # 2 Coil Economizer PCB
