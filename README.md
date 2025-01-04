@@ -1,3 +1,6 @@
+**This version is not working.  The transistor is flipped on each channel and the DRV103's seem to be counterfeit.  Plan is to eventually swap both DRV103's to 556 timers and to a logic ic for input control to reduce cost and simplify the whole project.**
+
+
 # 2 Coil Economizer PCB
  This 2 Coil DRV103 Economizer PCB is not tested yet. It has at least 1 issue as when its soldered to + triggered the coil output is at 100% with the trigger wire floating. 
 
